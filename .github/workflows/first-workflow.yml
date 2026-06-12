@@ -26,7 +26,7 @@ jobs:
         run: |
           ls
           echo "print hideen files"
-          ls-la
+          ls -la
           echo "check storage"
           df -h
           
